@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 Jordi Malla Esqué Enginyer informàtic i apasionat de l'esport.  
