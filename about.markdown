@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-![Me](https://avatars1.githubusercontent.com/u/48735113?v=2&s=200#thumbnail){: style="border-radius: 50%; margin-right: 10px"} 
+![Me](https://avatars1.githubusercontent.com/u/48735113?v=2&s=200#thumbnail){: style="float: left; border-radius: 50%; margin-right: 10px"} 
 <h2>Jordi Malla Esqué</h2>
 <p style="color: grey;">Enginyer informàtic i apasionat de l'esport i la natura.</p>
 
