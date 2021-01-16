@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-![Me](https://avatars1.githubusercontent.com/u/48735113?v=2&s=200#thumbnail){: style="float: left"} Jordi Malla Esqué Enginyer informàtic i apasionat de l'esport.  
+![Me](https://avatars1.githubusercontent.com/u/48735113?v=2&s=200#thumbnail){: style="float: left;border-radius: 50%"} Jordi Malla Esqué Enginyer informàtic i apasionat de l'esport i la natura.  
 
 {% include logo.html image_path="https://avatars1.githubusercontent.com/u/48735113?v=2&s=200" title="" description="" %}
 Actualment estic treballant com a responsable TI gestionant projectes en l'àmbit de sistemes, cyberseguretat i de desenvolupament amb .NET.  
