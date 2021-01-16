@@ -1,0 +1,9 @@
+<div style="clear: both;">
+  <div style="border-radius: 50%;border: 1px solid">
+    <img src="{{ include.image_path }}" alt="">
+  </div>
+  <div>
+    <h2>{{ include.title }}</h2>
+    {{ include.description | markdownify }}
+  </div>
+</div>
